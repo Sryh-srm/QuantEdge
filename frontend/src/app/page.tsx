@@ -6,7 +6,6 @@ import MarketTable from "@/components/MarketTable";
 export default function Home() {
   return (
     <div className="flex bg-black min-h-screen">
-      <Sidebar />
 
       <main className="flex-1">
         <Navbar />
